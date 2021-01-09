@@ -1,7 +1,11 @@
 # Constraint-AAAI-2021-Hostility-Detection-in-Hindi-Using-Multilingual-Finetuned-Features
-Research Work at Constraint AAAI 2021. Paper submitted (Publisher: Springer CCIS, decision pending) 
+Accepted research Work at Constraint 2021: Workshop of the prestigious AAAI 2021 (Core A*) conference. Paper Accepted (Publisher: Springer CCIS, decision pending) 
 
-Workshop Page: https://constraint-shared-task-2021.github.io/
+# Workshop Details
+1) Workshop Name: CONSTRAIN 2021 (Workshop on Combating Online Hostile Posts in Regional Languages during Emergency Situation)
+2) Workshop Page: https://constraint-shared-task-2021.github.io/
+3) Conference Name: 35th AAAI Conference on Artificial Intelligence 2021 (Core A*)
+4) Conference Page: https://aaai.org/Conferences/AAAI-21/
 
 ## Authors
 1) Arkadipta De (https://github.com/Arko98) [IIT Hyderabad M.Tech in Artificial Intelligence]  [Main and Corresponding Author]
