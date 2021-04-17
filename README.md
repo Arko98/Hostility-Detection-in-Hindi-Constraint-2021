@@ -2,7 +2,7 @@
 Published research Work at Constraint 2021: Workshop of the prestigious AAAI 2021 (Core A*) conference. 
 Publisher: Springer CCIS (Paper - https://link.springer.com/chapter/10.1007/978-3-030-73696-5_19) 
 
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/Arko98/Hostility-Detection-in-Hindi-Constraint-2021)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/Arko98/Hostility-Detection-in-Hindi-Constraint-2021/blob/main/LICENSE)
 [![others](https://img.shields.io/badge/Huggingface-Cuda%2011.1.0-brightgreen)](https://huggingface.co/)
 [![others](https://img.shields.io/badge/PyTorch-Stable%20(1.8.1)-orange)](https://pytorch.org/)
 
