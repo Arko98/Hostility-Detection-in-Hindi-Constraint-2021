@@ -2,6 +2,9 @@
 Accepted research Work at Constraint 2021: Workshop of the prestigious AAAI 2021 (Core A*) conference. 
 Paper Accepted (Publisher: Springer CCIS) 
 
+## Conference Paper
+Link to Paper - https://link.springer.com/chapter/10.1007/978-3-030-73696-5_19
+
 # Workshop Details
 1) Workshop Name: CONSTRAIN 2021 (Workshop on Combating Online Hostile Posts in Regional Languages during Emergency Situation)
 2) Workshop Page: https://constraint-shared-task-2021.github.io/
