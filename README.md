@@ -2,6 +2,10 @@
 Published research Work at Constraint 2021: Workshop of the prestigious AAAI 2021 (Core A*) conference. 
 Publisher: Springer CCIS (Paper - https://link.springer.com/chapter/10.1007/978-3-030-73696-5_19) 
 
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/Arko98/Hostility-Detection-in-Hindi-Constraint-2021)
+[![others](https://img.shields.io/badge/Huggingface-Cuda%2011.1.0-brightgreen)](https://huggingface.co/)
+[![others](https://img.shields.io/badge/PyTorch-Stable%20(1.8.1)-orange)](https://pytorch.org/)
+
 # Workshop Details
 1) Workshop Name: CONSTRAIN 2021 (Workshop on Combating Online Hostile Posts in Regional Languages during Emergency Situation)
 2) Workshop Page: https://constraint-shared-task-2021.github.io/
@@ -42,9 +46,6 @@ abstract="Due to the wide adoption of social media platforms like Facebook, Twit
 isbn="978-3-030-73696-5"
 }
 ```
-
-## License
-MIT
 
 ## Instructions for Fine-Tuning
 General Instructions:
