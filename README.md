@@ -166,4 +166,4 @@ d. Change Paths accordingly
 6. Fine Grained Offensive :      https://drive.google.com/file/d/1hZHEIdXI3RDwzJwV0xUiqn9Ux9fhmpqN/view?usp=sharing
 7. Fine Grained Defamation:      https://drive.google.com/drive/folders/1lFfOVSikbP-aRWHev_NoEdLYYS38mw6E?usp=sharing
 
-Note: The Dataset Folder contains all the datasets needed to run the codes
+Note: The Dataset can be found at official dataset repository https://github.com/mohit19014/Hindi-Hostility-Detection-CONSTRAINT-2021
